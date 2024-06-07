@@ -16,7 +16,8 @@ You can browse and run the notebooks: 1.Supply_chain_clean_dataset_05_06_2024 (c
 2.Supply_chain_project_text_preprocessing_word_clouds:04_06_2024 (the texts were prepared to be analyized, for example , the emoji were replaced,
 the digits and special characters were removed, some spelling mistakes were corrected, all the letters were brought to lower case, 
 stop_words were removed. Afterwards, you can see the dataset visualizations with WordClouds). 
-3...(
+
+3.Gensim_model_06_06 (Word2Vec object created from the text review in order to get the some insights from the customers feedback)
 
 4...
 
