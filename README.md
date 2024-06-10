@@ -9,9 +9,12 @@ For this project we used the Kaggle database on reviews for mobile phones from A
 
 This project was developed by the following team :
 
-Valeria Solozobova (GitHub / LinkedIn
-Paula Robina Beck (GitHub / LinkedIn
-You can browse and run the notebooks: 1.Supply_chain_clean_dataset_05_06_2024 (cleaning of the dataset to improve its quality and explorative data analysis (EDA)
+Valeria Solozobova (GitHub [](https://github.com/ValeriaMalin) / [](https://www.linkedin.com/in/valeria-solozobova-49482730b) 
+Paula Robina Beck (GitHub / [](https://www.linkedin.com/in/paularbeck/)
+
+You can browse and run the notebooks:
+
+1.Supply_chain_clean_dataset_05_06_2024 (cleaning of the dataset to improve its quality and explorative data analysis (EDA)
 
 2.Supply_chain_project_text_preprocessing_word_clouds:04_06_2024 (the texts were prepared to be analyized, for example , the emoji were replaced,
 the digits and special characters were removed, some spelling mistakes were corrected, all the letters were brought to lower case, 
@@ -19,7 +22,12 @@ stop_words were removed. Afterwards, you can see the dataset visualizations with
 
 3.Gensim_model_06_06 (Word2Vec object created from the text review in order to get the some insights from the customers feedback)
 
-4...
+
+4.Multiclass_problem_sentiment-analysis_07_06.ipynb  (In the notebook we tested different algorithms in order to find the best, in our handa random forest was good one)
+
+5.keras_multiclass_supply_chain_10_06.ipynb (Here was created CNN for multicalss classification and for binary classification as well; for training the Word2Vec was used to build the embedding vector)
+
+6.TFIDF_keras_supply_chain.ipynb  (TFIDF Vectorizer was used to build dense neural tenwork, so far it was the best for multiclass classification of our dataset) 
 
 You will need to install the dependencies (in a dedicated environment) :
 
