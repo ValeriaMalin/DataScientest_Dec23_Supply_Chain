@@ -1,7 +1,9 @@
-# DataScientest_Dec23_Supply_Chain
+ DataScientest_Dec23_Supply_Chain
+
+
 Project: Optimization of Supply chain with the help of customers feedback
 
-This repository contains the jupiter notebooks for our project Supply Chain, developed during our Data Scientist training at DataScientest. It also containes teh code for Streamlit presentation of our project as well as the all the neccessary files for it.
+This repository contains the jupiter notebooks for our project Supply Chain, developed during our Data Scientist training at DataScientest. It also containes the code for Streamlit presentation of our project as well as the all the neccessary files for it.
 
 The goal of this project is to get the insights form customers review in order to improve supply chain and create the models to predicts the positivity/negativity of comments using machine or deep learning approaches
 
